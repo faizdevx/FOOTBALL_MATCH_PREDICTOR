@@ -126,3 +126,4 @@ There’s a handy function called predict_match_winner. Just tell it the teams, 
   ```bash
 
     predict_match_winner("Barcelona", "Real Madrid", model, df1, selected_features)
+"pair extraordinaire" 
